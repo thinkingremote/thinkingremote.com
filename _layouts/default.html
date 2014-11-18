@@ -5,12 +5,15 @@
 
   <body>
     <div class="container">
-
-    {% include header.html %}
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+        {% include header.html %}
 
         {{ content }}
 
-    {% include footer.html %}
+        {% include footer.html %}
+        </div>
+      </div>
     </div>
 
   </body>
