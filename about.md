@@ -15,10 +15,12 @@ which will allow remotrers and those who consider becoming remote workers to exc
 ideas, find solutions, answer questions, and contribute to the ever growing community
 of remote workers.
 
-Yotam Rosenbaum is an award winning composer and drummer turned entrepreneur. He graduated Magna Cum Laude from Berklee College of Music.  Following a five year
+<img src="https://d1qb2nb5cznatu.cloudfront.net/users/28518-medium_jpg?1405458215" style="float: left; margin-right: 20px; height: 140px; width: 140px;" />Yotam Rosenbaum is an award winning composer and drummer turned entrepreneur. He graduated Magna Cum Laude from Berklee College of Music.  Following a five year
  successful career as a musician in Los Angeles he co-founded Earbits.com, a music
  startup poised to help independent musicians market their music and connect with new
  fans.  Earbits is backed by some of Silicon Valley's most notable investors, 
 including Y Combinator, Charles River Ventures, and Wordpress founder Matt Mullenweg,
  just to name a few.  At Earbits Yotam managed a team of 16 people whom all 
 worked remotely.  He is an avid remoter whom has never worked in a traditional office setting. 
+
+<img src="https://d1qb2nb5cznatu.cloudfront.net/users/313044-medium_jpg?1413985011" style="float: right; margin-right: 20px; height: 140px; width: 140px;" />Thomas Davis is an Australian developer who maintains several large open source projects such as [cdnjs.com](https://cdnjs.com) and [jsonresume.org](https://jsonresume.org). He also volunteers for the [internet taskforce](https://taskforce.is) which raises awareness about digital rights issues such as mass surveillance and net neutrality. On top of these jobs, he does his regular day jobs remotely generally for US companies.
