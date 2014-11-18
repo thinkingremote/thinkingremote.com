@@ -1,34 +1,44 @@
 ---
-layout: default
+layout: page
 ---
 
-<h2>Books</h2>
-<ul>
-  <li>REMOTE by 37 signals</li>
-</ul>
-<h2>Jobboards</h2>
-<ul>
-  <li>WeWorkRemotely.com</li>
-  <li>Angel.co/jobs</li>
-</ul>
-<h2>External Blogpost</h2>
-<ul>
-  <li>Groove.com - Remote team</li>
-  <li>
-</ul>
+<div class="row">
+  <div class="col-md-6">
+    <h3>Books</h3>
+    <ul>
+      <li>REMOTE by 37 signals</li>
+    </ul>
+    <h3>Jobboards</h3>
+    <ul>
+      <li>WeWorkRemotely.com</li>
+      <li>Angel.co/jobs</li>
+    </ul>
+    <h3>External Blogpost</h3>
+    <ul>
+      <li>Groove.com - Remote team</li>
+    </ul>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+  </div>
+  <div class="col-md-6">
 
+    <h2>Blog</h2>
 
-<h2>Blog</h2>
+    <ul>
+      {% for post in site.posts %}
+        <li>
 
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

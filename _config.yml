@@ -1,13 +1,13 @@
 # Site settings
 title: Thinking Remote
-description: > ThinkingRemote is a place to learn and share information about working remotely. 
+description: > # ThinkingRemote is a place to learn and share information about working remotely. 
   Internet connectivity allows a growing number of people to work remotely without 
   the need to ever set foot in an office.  But telecommuting is not for everyone, 
-  it has its fair share of pros and cons.  
+  it has its fair share of pros and cons.       
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://thinkingremote.com" # the base hostname & protocol for your site
+url: "http://thinkingremote.com" # the base hostname & protocol for your site
 twitter_username: thinkingremote
-github_username:  thinkingremote
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
