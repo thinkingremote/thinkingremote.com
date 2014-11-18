@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+ThinkingRemote is a place to learn and share information about working remotely. 
+Internet connectivity allows a growing number of people to work remotely without 
+the need to ever set foot in an office.  But telecommuting is not for everyone, 
+it has its fair share of pros and cons.  
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Our mission, as two lifelong remoters, is to explore all the different aspects
+of this relatively new lifestyle. We hope to create a knowledge-rich platform 
+which will allow remotrers and those who consider becoming remote workers to exchange
+ideas, find solutions, answer questions, and contribute to the ever growing community
+of remote workers.
