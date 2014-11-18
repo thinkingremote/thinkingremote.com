@@ -1,12 +1,13 @@
 # Site settings
 title: Thinking Remote
-description: > # this means to ignore newlines until "baseurl:"
-  ThinkingRemote is a place to learn and share information about working remotely and 
-  telecommuting.
+description: > ThinkingRemote is a place to learn and share information about working remotely. 
+  Internet connectivity allows a growing number of people to work remotely without 
+  the need to ever set foot in an office.  But telecommuting is not for everyone, 
+  it has its fair share of pros and cons.  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://thinkingremote.com" # the base hostname & protocol for your site
+url: "https://thinkingremote.com" # the base hostname & protocol for your site
 twitter_username: thinkingremote
-github_username:  jekyll
+github_username:  thinkingremote
 
 # Build settings
 markdown: kramdown
