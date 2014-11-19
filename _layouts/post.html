@@ -8,14 +8,33 @@ layout: default
         <div class="col-md-8 col-md-offset-2" style="position: relative;">
 
     <header class="post-header">
-      <h2 class="post-title">{{ page.title }}</h2>
+       <h2 style="border-bottom: 2px solid #222;"class="post-title">{{ page.title }}<i style="font-size: 25px; margin-top: 2px; float: right;" class="fa fa-eye"></i></h2>
       <!--<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>-->
     </header>
 
     <article class="post-content">
       {{ content }}
         <div style="clear: both;"></div>
-      
+      <!-- Go to www.addthis.com/dashboard to customize your tools -->
+       <h2 style="border-bottom: 2px solid #222;" class="post-title">Share<i style="font-size: 25px; margin-top: 2px; float: right;" class="fa fa-share-alt"></i></h2>
+<div class="addthis_jumbo_share" style="padding: 20px 0;"></div>
+
+ <h2 style="border-bottom: 2px solid #222;" class="post-title">Comments<i style="font-size: 25px; margin-top: 2px; float: right;" class="fa fa-comments-o"></i></h2>
+<div id="disqus_thread" style="padding: 20px 0;"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'thinkingremote'; // required: replace example with your forum shortname
+        var disqus_identifier = '{{ page.permalink }}';
+        var disqus_url = 'https://thinkingremote.com/{{ page.permalink }}';
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
     </article>
         <div style="clear: both;"></div>
 
