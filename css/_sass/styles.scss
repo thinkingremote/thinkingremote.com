@@ -31,7 +31,7 @@ p {
   font-style: normal;
   font-weight: 300;
   letter-spacing: 0.159999996423721px;
-  line-height: 33px;
+  line-height: 30px;
   margin: auto;
   margin-bottom: 30px;
   visibility: visible;
@@ -52,31 +52,55 @@ footer {
   list-style: none;
   padding: 0;
   margin: 0;
+  float: right;
+  padding-top: 24px;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
 }
 .logo {
   margin-bottom: 0px;
 }
+.byline {
+  margin: 0 0 10px 0;
+  text-align: justify;
+}
 .menu li {
   float: left;
-  margin-right: 15px;
+  margin-left: 15px;
 
 }
 .menu li a {
   color: #222;
   text-decoration: none;
   text-transform: uppercase;
+  font-weight: bold;
 }
 
 .menu li a:hover {
-  font-weight: bold;
+  color: #444;
   text-transform: uppercase;
 }
 .header {
   background: #f0f0f0;
   padding-bottom: 20px;
+  padding-top: 10px;
 }
 
 footer {
   background: #f0f0f0;
   
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 40px;
+}
+.list a {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0.159999996423721px;
 }

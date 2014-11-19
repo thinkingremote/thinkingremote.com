@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "REMOTE - Book Review"
 date:   2014-11-18 02:35:14
 categories: jekyll update
 ---

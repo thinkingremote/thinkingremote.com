@@ -2,37 +2,12 @@
 layout: page
 ---
 
-<div class="row">
-  <div class="col-md-6">
-    <h3>Books</h3>
-    <ul>
-      <li>REMOTE by 37 signals</li>
-    </ul>
-    <h3>Jobboards</h3>
-    <ul>
-      <li>WeWorkRemotely.com</li>
-      <li>Angel.co/jobs</li>
-    </ul>
-    <h3>External Blogpost</h3>
-    <ul>
-      <li>Groove.com - Remote team</li>
-    </ul>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-  </div>
-  <div class="col-md-6">
+<div class="">
+  <div class="">
+  
+    <h2 style="border-bottom: 2px solid #222;">Blog<i style="font-size: 28px; margin-top: 2px; float: right;" class="fa fa-rss"></i></h2>
 
-    <h2>Blog</h2>
-
-    <ul>
+    <ul class="list">
       {% for post in site.posts %}
         <li>
 
@@ -40,5 +15,16 @@ layout: page
         </li>
       {% endfor %}
     </ul>
+    <h2 style="border-bottom: 2px solid #222;">Books<i style="font-size: 28px; margin-top: 2px; float: right;" class="fa fa-book"></i></h2>
+    <ul class="list">
+      <li><a href="http://37signals.com/remote/">REMOTE by 37 signals</a></li>
+    </ul>
+
+    <h2 style="border-bottom: 2px solid #222;">Jobboards<i style="font-size: 28px; margin-top: 2px; float: right;" class="fa fa-newspaper-o"></i></h2>
+    <ul class="list">
+      <li><a href="http://weworkremotely.com">We Work Remotely</a></li>
+      <li><a href="https://angel.co/jobs">Angel List</a></li>
+    </ul>
+
   </div>
 </div>
