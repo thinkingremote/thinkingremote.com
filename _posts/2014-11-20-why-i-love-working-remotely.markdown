@@ -4,7 +4,9 @@ title:  "Why I love Working Remotely (or why I never had a 'real' job)"
 date:   2014-11-18 02:35:14
 categories: jekyll update
 permalink: remote-book-review
-
+author: Yotam Rosenbaum
+blurb: Very good man, likes to paint and fly cars around.
+avatar: https://d1qb2nb5cznatu.cloudfront.net/users/28518-medium_jpg?1405458215
 ---
 
 ![](/images/island.jpeg)
