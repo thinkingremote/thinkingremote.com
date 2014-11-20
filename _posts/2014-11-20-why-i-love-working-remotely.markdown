@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "Five Reasons To Go Remote (or why I never had a 'real' job)"
-date:   2014-11-18 02:35:14
+date:   2014-11-20 02:35:14
 categories: jekyll update
 permalink: remote-book-review
 
 ---
 
-![](/images/island.jpeg)
 
-Picture this, you are left with nothing more than a laptop and a high speed internet connection, that's all.  Can you survive?  Answering this question, or even asking this question a few decades ago would be deemed irrelevant.  The internet was still in its infancy and a typical computer was a behemoth desktop.  Free Skype calls from one corner of the globe to another, streaming high definition videos on YouTube, and a slew of other online services, which these days we take for granted, simply didn't exist.  Things have changed, a lot.  
-
+| ![island](/images/island.jpeg) | Picture this, you are left with nothing more than a laptop and a high speed internet connection, that's all.  Can you survive?  Answering this question, or even asking this question a few decades ago would be deemed irrelevant.  The internet was still in its infancy and a typical computer was a behemoth desktop.  Free Skype calls from one corner of the globe to another, streaming high definition videos on YouTube, and a slew of other online services, which these days we take for granted, simply didn't exist.  Things have changed, a lot.  
+     
 I am fascinated by the opportunities the internet creates for humanity.  In a world still divided by borders the internet is, even if not perfectly so, an open arena, allowing anyone, anywhere, access to a massive pool of information and a connection to billions of other human beings.  As this is my first blog post for our newly launched ThinkingRemote website I decided to dedicate it to talking about what I find most appealing about remote working.  There are of course plenty of challenges too, but we'll leave those for later.
 
 
@@ -46,6 +45,8 @@ Perhaps one of the most gratifying things for me about working remotely is knowi
 Remote working may not be the right fit for everyone.  For me, I can’t picture a different work setting.  The advantages presented by working from home surpass the challenges, which I’ll discuss in my next article.  We’d love to hear your take about remote working, let us know your thoughts in the comments.   
 
 
-Yotam Rosenbaum
+Yotam Rosenbaum																																											
 
 Written from Santa Cruz, CA.
+
+
