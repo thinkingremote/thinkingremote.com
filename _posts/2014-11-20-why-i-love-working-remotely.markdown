@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I love Working Remotely (or why I never had a 'real' job)"
+title:  "Five Reasons To Go Remote (or why I never had a 'real' job)"
 date:   2014-11-18 02:35:14
 categories: jekyll update
 permalink: remote-book-review
