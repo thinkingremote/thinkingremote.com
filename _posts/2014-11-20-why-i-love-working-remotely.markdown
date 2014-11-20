@@ -45,4 +45,5 @@ Remote working may not be the right fit for everyone.  For me, I can’t picture
 
 
 Yotam Rosenbaum
+
 Written from Santa Cruz, CA.
