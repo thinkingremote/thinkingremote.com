@@ -17,7 +17,7 @@ body {
    background-color:#fff;
 }
 .container {
-  width: 960px;
+  width: 1080px;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Oswald', sans-serif;
@@ -31,7 +31,7 @@ p {
   font-style: normal;
   font-weight: 300;
   letter-spacing: 0.159999996423721px;
-  line-height: 30px;
+  line-height: 34px;
   margin: auto;
   margin-bottom: 30px;
   visibility: visible;
@@ -103,4 +103,9 @@ footer {
   font-style: normal;
   font-weight: 300;
   letter-spacing: 0.159999996423721px;
+  color: #333;
+}
+.list a:hover {
+  text-decoration: none;
+  color: #777;
 }
