@@ -3,7 +3,7 @@ layout: post
 title:  "Five Reasons To Go Remote (or why I never had a 'real' job)"
 date:   2014-11-20 02:35:14
 categories: jekyll update
-permalink: remote-book-review
+permalink: why-i-love-working-remotely
 author: Yotam Rosenbaum
 blurb: A musician turned entrepreneur.  World citizen, aspiring hacker, husband, and an avid hummus fan.
 avatar: https://d1qb2nb5cznatu.cloudfront.net/users/28518-medium_jpg?1405458215
