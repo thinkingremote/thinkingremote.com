@@ -49,6 +49,8 @@ p {
 footer {
   text-align: right;
   padding: 20px 0;
+  color: #fff;
+  background: #333;
 }
 
 .menu {
@@ -62,7 +64,7 @@ footer {
   text-align: center;
 }
 .top-header {
-  background: #212121;
+  background: #333;
   color: #fff;
 }
 .logo {
@@ -95,11 +97,6 @@ footer {
 .header {
   padding-bottom: 20px;
   padding-top: 10px;
-}
-
-footer {
-  background: #f0f0f0;
-  
 }
 
 .list {
@@ -191,17 +188,17 @@ section::after {
   top: -90px;
   background-image: -webkit-gradient(linear, 0 0, 300% 100%, color-stop(0.25, transparent), color-stop(0.25, darken($color1, 7%)));
   background-image:
-    linear-gradient(315deg, darken($color1, 2%) 25%, transparent 25%),
+    linear-gradient(315deg, darken($color1, 0%) 25%, transparent 25%),
     linear-gradient( 45deg, darken($color1, 7%) 25%, transparent 25%);
   background-position: 50%;
 }
 
 .ss-style-zigzag::after {
   top: 100%;
-  background-image: -webkit-gradient(linear, 0 0, 300% 100%, color-stop(0.25, darken($color1, 7%)), color-stop(0.25, $color1));
+  background-image: -webkit-gradient(linear, 0 0, 300% 100%, color-stop(0.25, darken($color1, 0%)), color-stop(0.25, $color1));
   background-image: 
-    linear-gradient(135deg, darken($color1, 7%) 25%, transparent 25%),
-    linear-gradient(225deg, darken($color1, 7%) 25%, transparent 25%);
+    linear-gradient(135deg, darken($color1, 0%) 25%, transparent 25%),
+    linear-gradient(225deg, darken($color1, 0%) 25%, transparent 25%);
   background-position: 50%;
 }
 

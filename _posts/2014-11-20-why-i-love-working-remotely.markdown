@@ -47,10 +47,3 @@ Perhaps one of the most gratifying things for me about working remotely is knowi
 
 
 Remote working may not be the right fit for everyone.  For me, I can’t picture a different work setting.  The advantages presented by working from home surpass the challenges, which I’ll discuss in my next article.  We’d love to hear your take about remote working, let us know your thoughts in the comments.   
-
-
-Yotam Rosenbaum																																											
-
-Written from Santa Cruz, CA.
-
-
