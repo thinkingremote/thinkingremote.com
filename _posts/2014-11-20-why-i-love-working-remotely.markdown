@@ -7,6 +7,7 @@ permalink: remote-book-review
 author: Yotam Rosenbaum
 blurb: A musician turned entrepreneur.  World citizen, aspiring hacker, husband, and an avid hummus fan.
 avatar: https://d1qb2nb5cznatu.cloudfront.net/users/28518-medium_jpg?1405458215
+excerpt: Picture this, you are left with nothing more than a laptop and a high speed internet connection, that's all.  Can you survive?  Answering this question, or even asking this question a few decades ago would be deemed irrelevant.  The internet was still in its infancy and a typical computer was a behemoth desktop.  Free Skype calls from one corner of the globe to another, streaming high definition videos on YouTube, and a slew of other online services, which these days we take for granted, simply didn't exist.  Things have changed, a lot.  
 ---
 
 
