@@ -10,7 +10,9 @@ avatar: https://d1qb2nb5cznatu.cloudfront.net/users/28518-medium_jpg?1405458215
 ---
 
 
-| ![island](/images/island.jpeg) | Picture this, you are left with nothing more than a laptop and a high speed internet connection, that's all.  Can you survive?  Answering this question, or even asking this question a few decades ago would be deemed irrelevant.  The internet was still in its infancy and a typical computer was a behemoth desktop.  Free Skype calls from one corner of the globe to another, streaming high definition videos on YouTube, and a slew of other online services, which these days we take for granted, simply didn't exist.  Things have changed, a lot.  
+<img src="/images/island.jpeg" style="float: right; margin-left: 15px;margin-bottom: 10px;" />
+
+Picture this, you are left with nothing more than a laptop and a high speed internet connection, that's all.  Can you survive?  Answering this question, or even asking this question a few decades ago would be deemed irrelevant.  The internet was still in its infancy and a typical computer was a behemoth desktop.  Free Skype calls from one corner of the globe to another, streaming high definition videos on YouTube, and a slew of other online services, which these days we take for granted, simply didn't exist.  Things have changed, a lot.  
      
 I am fascinated by the opportunities the internet creates for humanity.  In a world still divided by borders the internet is, even if not perfectly so, an open arena, allowing anyone, anywhere, access to a massive pool of information and a connection to billions of other human beings.  As this is my first blog post for our newly launched ThinkingRemote website I decided to dedicate it to talking about what I find most appealing about remote working.  There are of course plenty of challenges too, but we'll leave those for later.
 
