@@ -126,3 +126,52 @@ h2 i {
   font-size: 32px !important;
   margin-top: 10px !important;
 }
+
+//Change color1 to change entire color scheme
+$color1:#fff;
+$cloudColor:#ecf0f1;
+
+*, *:after, *::before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* General styles and layout */
+section {
+  position: relative;
+}
+
+section::before,
+section::after {
+  position: absolute;
+  content: '';
+  pointer-events: none;
+}
+
+/* Triangles */
+.ss-style-triangles::before,
+.ss-style-triangles::after {
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  -webkit-transform: translateX(-50%) rotate(45deg);
+  transform: translateX(-50%) rotate(45deg);
+}
+/*
+.ss-style-triangles::before {
+  top: -50px;
+  background: $color1;
+}
+*/
+.ss-style-triangles::after {
+  bottom: -30px;
+  z-index: -3;
+  background: inherit;
+}
+
+/* Double Diagonal line */
+
+.section-content {
+  padding-top: 30px;
+}
