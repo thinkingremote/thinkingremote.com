@@ -4,7 +4,7 @@ title:  "Book Review: REMOTE by 37signals"
 date:   2014-11-24 02:35:14
 permalink: remote-office-not-required
 author: Thomas Davis
-blurb: A musician turned entrepreneur.  World citizen, aspiring hacker, husband, and an avid hummus fan.
+blurb: A remote full stack developer, known for founding projects such as <a href="https://cdnjs.com">cdnjs.com</a> and <a href="https://jsonresume.org">jsonresume.org</a>
 avatar: https://d1qb2nb5cznatu.cloudfront.net/users/313044-medium_jpg?1413985011
 excerpt: That book in question is called REMOTE and is authored by the founders of a company called 37 Signals which is hailed as one of the great successful software companies in the 21st century. What most people don’t know, is that the company has been run near exclusivly remote for over ten years. The founders and authors, David and Jason combined have a comprehensive breadth of experience and address every argument against remote work whilst also identifying key benefits that seem counter intuitive to most.
 ---
@@ -80,9 +80,9 @@ This book deserves to be read by the industry, if not simply for the fact they a
 
 **If you already work remotely**, the book is comforting in the fact that they cover almost all the unique experiences of remote work and you will find joy in identifying with problems they have experienced and tips on how to get around them.  I'd highly recommend the chapter "Freedom is slavery".
 
-**If you work in or manage a small company**, the authors believe it is in both parties best interest to join the remote revolution, I feel they quite adequately cover everything you need to know on how to make this a real possibility.  The best section for small companies to read is "The work is what matters"
+**If you work in or manage a small company**, the authors believe it is in both parties best interest to join the remote revolution, I feel they quite adequately cover everything you need to know on how to make this a real possibility.  The best section for small companies to read is "The work is what matters".
 
-**If you work in a large organization**, I am unsure of how this book will help you. They do reference a lot of large companies who do work remotely and your best bet is to read those references and independently research more about how those companies work. Read the section "That wouldn't work for our size or industry"
+**If you work in a large organization**, I am unsure of how this book will help you. They do reference a lot of large companies who do work remotely and your best bet is to read those references and independently research more about how those companies work. Read the section "That wouldn't work for our size or industry".
 
 As far as the content and writing style of the book go, I quite like the Dale Carnegie style fashion and also believe this book would benefit greatly from periodic revisions and publications. Some of the sections feel a bit too much like a run of the mill self help book content because they lack anecdotes, references or statistics. 
 
