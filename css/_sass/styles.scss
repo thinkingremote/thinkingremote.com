@@ -44,7 +44,26 @@ p {
 
   -moz-osx-font-smoothing: grayscale;
 }
+p strong {
+  color: #333;
+}
+li {
+  font-size: 22px;
+  color: #222;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0.159999996423721px;
+  line-height: 20px;
+  margin: auto;
+  margin-bottom: 30px;
+  visibility: visible;
+  word-wrap: break-word;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
 
+  -webkit-font-smoothing: antialiased;
+
+  -moz-osx-font-smoothing: grayscale;
+}
 footer {
   text-align: right;
   padding: 20px 0;
@@ -202,3 +221,22 @@ section::after {
 }
 
 /* Edges */
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #333;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D"
+}
+blockquote:before {
+  color: #333;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
