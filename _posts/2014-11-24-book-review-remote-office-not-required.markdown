@@ -30,7 +30,7 @@ If you find yourself constantly debating with people about the concept of remote
 
 ## The work is what matters
 
-"The work is what matters" is one of the section titles, a powerful remark and the the major theme of this book. When discussing the topic, this remark is what you always have to keep in mind. If somebody says "Ryan will just stay home and blast music all day while he eats Mac and Cheese", so what? Ryan might be highly productive after eating a kilogram of Mac and Cheese, "The work is what matters".
+"The work is what matters" is one of the section titles, a powerful remark and the major theme of this book. When discussing the topic, this remark is what you always have to keep in mind. If somebody says "Ryan will just stay home and blast music all day while he eats Mac and Cheese", so what? Ryan might be highly productive after eating a kilogram of Mac and Cheese, "The work is what matters".
 
 In this section, Jason and David talk about how software development inherently leaves a paper trail of employees work through version control and issue trackers making employee auditing a relatively easy process. Due to the non-personal nature of remote work, everyone is judged largely on their productive output. Instead of people floating around the office, making bro jokes at the water cooler or telling crazy stories about their youth, everyone is treated equally by there work and being the cool guy is no longer an excuse to get away with not their fair share of the work. It doesn't matter what time people choose to work either, "The work is what matters". 
 
