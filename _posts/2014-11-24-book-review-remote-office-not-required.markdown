@@ -4,7 +4,7 @@ title:  "Book Review: REMOTE by 37signals"
 date:   2014-11-24 02:35:14
 permalink: remote-office-not-required
 author: Thomas Davis
-blurb: A remote full stack developer, known for founding projects such as <a href="https://cdnjs.com">cdnjs.com</a> and <a href="https://jsonresume.org">jsonresume.org</a>
+blurb: Remote  developer known for founding projects such as <a href="https://cdnjs.com">cdnjs.com</a> and <a href="https://jsonresume.org">jsonresume.org</a>. Visit my <a href="http://thomasdav.is">homepage</a> or <a href="https://twitter.com/neutralthoughts">follow me on twitter</a>.
 avatar: https://d1qb2nb5cznatu.cloudfront.net/users/313044-medium_jpg?1413985011
 excerpt: That book in question is called REMOTE and is authored by the founders of a company called 37 Signals which is hailed as one of the great successful software companies in the 21st century. What most people don’t know, is that the company has been run near exclusivly remote for over ten years. The founders and authors, David and Jason combined have a comprehensive breadth of experience and address every argument against remote work whilst also identifying key benefits that seem counter intuitive to most.
 ---
