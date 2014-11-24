@@ -6,7 +6,7 @@ permalink: remote-office-not-required
 author: Thomas Davis
 blurb: A musician turned entrepreneur.  World citizen, aspiring hacker, husband, and an avid hummus fan.
 avatar: https://d1qb2nb5cznatu.cloudfront.net/users/313044-medium_jpg?1413985011
-excerpt: Excerpt
+excerpt: That book in question is called REMOTE and is authored by the founders of a company called 37 Signals which is hailed as one of the great successful software companies in the 21st century. What most people don’t know, is that the company has been run near exclusivly remote for over ten years. The founders and authors, David and Jason combined have a comprehensive breadth of experience and address every argument against remote work whilst also identifying key benefits that seem counter intuitive to most.
 ---
 
 
