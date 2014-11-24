@@ -38,13 +38,13 @@ In this section, Jason and David talk about how software development inherently 
 
 ## We can all do with fewer M&M's
 
-In fear of repeating the above phrase too much, let's move on to another central theme, efficiency. The authors argue pretty adamantly that office work has turned into nothing but distractions or "interruption factories" as the authors label it. They believe that arguing that remote work is inefficient has no basis and on the contrary we should be looking at how inefficient office work has become. 
+In fear of repeating the above phrase too much, let's move on to another central theme, efficiency. The authors argue pretty adamantly that office work has turned into nothing but distractions or "interruption factories" as the authors label it. They believe that arguing that remote work is inefficient isn't of too much concern and on the contrary we should be looking at how inefficient office work has become. 
 
-> Meetings should be like salt - sprinkled carefully to enhance a dish, not poured recklessly over every forkful. Too much salt destroys a dish
+> Meetings should be like salt – sprinkled carefully to enhance a dish, not poured recklessly over every forkful. Too much salt destroys a dish
 
 <img src="/images/mnm.jpg" style="float: right; width: 280px; margin-left: 25px;margin-bottom: 10px; margin-bottom: 10px;" />
 
-Cheekily called M&M's, the authors believe that **managers** and **meetings** are actually counter productive when used excessively, which by the tone of the text, the authors consider quite often. Admittedly the amount of qualms and attacks on meetings get a bit repetitive in the book.
+Cheekily called M&M's, the authors believe that **managers** and **meetings** are actually counter productive when used excessively, which by the tone of the text, the authors consider quite often. Admittedly the amount of quips and qualms on meetings gets a bit repetitive whilst reading through the chapters.
 
 Their argument isn't that office work is completely inefficient but instead they beg the question:
 
