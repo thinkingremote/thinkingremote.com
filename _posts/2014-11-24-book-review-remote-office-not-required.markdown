@@ -6,7 +6,7 @@ permalink: remote-office-not-required
 author: Thomas Davis
 blurb: Remote  developer known for founding projects such as <a href="https://cdnjs.com">cdnjs.com</a> and <a href="https://jsonresume.org">jsonresume.org</a>. Visit my <a href="http://thomasdav.is">homepage</a> or <a href="https://twitter.com/neutralthoughts">follow me on twitter</a>.
 avatar: https://d1qb2nb5cznatu.cloudfront.net/users/313044-medium_jpg?1413985011
-excerpt: That book in question is called REMOTE and is authored by the founders of a company called 37 Signals which is hailed as one of the great successful software companies in the 21st century. What most people don’t know, is that the company has been run near exclusivly remote for over ten years. The founders and authors, David and Jason combined have a comprehensive breadth of experience and address every argument against remote work whilst also identifying key benefits that seem counter intuitive to most.
+excerpt: That book in question is called REMOTE and is authored by the founders of a company called 37 Signals which is hailed as one of the great successful software companies of the 21st century. What most people don’t know, is that the company has been run near exclusivly remote for over ten years. The founders and authors, David and Jason combined have a comprehensive breadth of experience and address every argument against remote work whilst also identifying key benefits that seem counter intuitive to most.
 ---
 
 
@@ -24,7 +24,7 @@ This is first and foremost a critical book review, and from my experience it is 
 
 ## WHAT DOES THE BOOK COVER?
 
-Although the section titles are mostly descriptive of the contents, a small portion of them will leave you questioning until you read them. For those of you have read [How to Win Friends and Influence People](http://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) by Dale Carnegie, you may notice a certain influence on the writing style and structure of the book. Instead of covering business practises through the lens of personability, this book simply looks through the lens of how remote work affects day to day affairs. You will find plenty of anecdotes scattered throughout the text as they go through the daily life of working remotely at a software company.
+There are quite a lot of chapters and I had trouble thinking of ideas that they may have missed. The text is very accessible and paragraphs are kept short, taking only 1-2 hours of reading time. For those of you have read [How to Win Friends and Influence People](http://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) by Dale Carnegie, you may notice a certain influence on the writing style and structure of the book. Instead of covering business practises through the lens of personability, this book simply looks through the lens of how remote work affects day to day affairs. You will find plenty of anecdotes scattered throughout the text as they go through the daily life of working remotely at a software company.
 
 If you find yourself constantly debating with people about the concept of remote work, this book will leave you well equipped with arguments, counter arguments and memorable quotes to recall.  For example:
 
@@ -57,7 +57,7 @@ There are chapters that cover other basic inefficiencies with working at the off
 
 ## Inconclusive ANSWERS
 
-For the most part, the book offers compelling answers to common questions. Though some answers don't offer full solutions, for example, the question, "Big business doesn't do it, so why should we?", is covered in two pages, the only real point made is that "old" business is unwilling to change its ways and that bureaucracy plagues their decision making. A large portion of the software engineer workforce belongs to big business, and convincing them is exponential harder than your everyday software boutique. 
+For the most part, the book offers compelling answers to common questions. Though some answers don't offer full solutions, for example, the question, "Big business doesn't do it, so why should we?", is covered in two pages, the only real point made is that "old" business is unwilling to change its ways and that bureaucracy plagues their decision making. A large portion of the software engineer workforce belongs to big business, and convincing them is exponentially harder than your everyday software boutique. 
 
 <iframe width="360" style="float: right;" height="215" src="//www.youtube.com/embed/cZY-3bzJW-0" frameborder="0" allowfullscreen></iframe>
 
