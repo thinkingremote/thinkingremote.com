@@ -52,24 +52,23 @@ Their argument isn't that office work is completely inefficient but instead they
 
 Here they use anecdotes from their own personal experience and their employees to back up the claim, that everybody is unique in when they are productive each day. In essence, why make somebody sit in the office from 9-5 when they might be most switched on from 12-7.
 
-There are chapters that cover other basic inefficiencies with working at the office, such as wasting time communiting and the banal repetitiveness. Though lot of these chapters are pretty self evident to the average office worker. Though there are some brillant sections about the benefits that would seem almost counter intuitive. For example, there is a section titled "I need an answer now!" which postulates that people who work in traditionally offices work in a synchronous fashion. Such that, if they need something, they will immediately contact the person required which obviously distracts that person from there tasks. The person who needed something, will also now just sit and wait in anticipation for that person to reply. You now have disrupted two peoples productivity. Working remotely you structure your time around doing things asynchronously which in turn lets you and your co-workers work for longer stints of time undistracted. 
+There are chapters that cover other basic inefficiencies with working at the office, such as wasting time communiting and the banal repetitiveness. Though lot of these chapters are pretty self evident to the average office worker. Though there are some brillant sections about the benefits that would seem almost counter intuitive. For example, there is a section titled "I need an answer now!" which postulates that people who work in traditional offices work in a synchronous fashion. Such that, if they need something, they will immediately contact the person required which obviously distracts that person from what they were doing. The person who needed something, will also now just sit and wait in anticipation for that person to reply. You now have disrupted two peoples productivity. Working remotely you structure your time around doing things asynchronously which in turn lets you and your co-workers work for longer stints of time undistracted. 
 
 ## VAGUE ANSWERS
 
-For the most part, the book offers compelling answers to common questions. Though some answers didn't satiate my curiosity, for example the question "Big business doesn't do it, so why should we?, covered in two pages, the only real point made is that old business is unwillingly to change it's ways and that bureaucracy is <>. A large portion of the software engineer workforce belongs to big business, and convincing them is exponential harder than your every day software boutique. 
+For the most part, the book offers compelling answers to common questions. Though some answersdon't offer full solutions, for example the question "Big business doesn't do it, so why should we?", is covered in two pages, the only real point made is that "old" business is unwillingly to change its ways and that bureaucracy plagues their decision making. A large portion of the software engineer workforce belongs to big business, and convincing them is exponential harder than your every day software boutique. 
 
 <iframe width="360" style="float: right;" height="215" src="//www.youtube.com/embed/cZY-3bzJW-0" frameborder="0" allowfullscreen></iframe>
 
-I'd expect a much more comprehensive answer here as to how even simple logistical problems could be solved for big business. THe lack of insight here makes sense when you take into the philosophy behind a company like 37 signals who favor having a small company.
+I'd expect a much more comprehensive answer here as to how even simple logistical problems could be solved for big business e.g. scaling 1000 remote workers is harder than 30. The lack of content in this section makes sense when you take into account the philosophy behind a company like 37 signals who favor having a small company.
 
+The book is riddled with general business advice for small companies and you can smell the disdain for big business easily. Unfortunately for those who find themselves in corporate environments while the book will no doubt be useful in attempting to unleash yourself from the office, I fear it may not provide all the material needed to convince your big business bosses.
 
-The book is riddled with general business advice for small companies and you can smell the disdain for big business easily. Unfortunately for those who find themselves in coporate environments while the book will no doubt be useful in unleashing yourself from the office I fear it may not provide the material to convince your big business bosses.
-
-Another section titled "Others would get jealous" highlights that people fear that co-workers might feel jealousy or envy if some people are remote and they are not which will lead to overall morale degradation. One of the points they make as to why this problem doesn't really exist is:
+Another section titled "Others would get jealous" highlights that people fear that co-workers might feel jealousy or envy if some people are remote and they are not which will lead to low company morale. One of the points they make as to why this problem doesn't really exist is:
 
 > The guy sending packages from the warehouse already has a different job from the girl running the books in accounting. Different jobs, different requirements. People get that
 
-Though postulating people get that might not be enough, the guy in the warehouse might wholeheartedly be jealous of the girl working in accounting. 
+Though postulating "people get that" might not be enough, the guy in the warehouse might wholeheartedly be jealous of the girl working in accounting. 
 
 > The best way to defuse the "everyone must be bound by the same policy" line of argument is to remind your boss, yourself, and any other concerned party that you're all on the same team
 
@@ -79,13 +78,13 @@ I personally am not fully convinced that is enough to alleviate the problem, and
 
 This book deserves to be read by the industry, if not simply for the fact they are pioneers in remote thought. 
 
-**If you already work remotely**, the book is comforting in the fact that they cover almost all the unique experiences of remote work and you won't feel alone if you have shared some of the same problems.  I'd highly recommend the chapter "Freedom is slavery".
+**If you already work remotely**, the book is comforting in the fact that they cover almost all the unique experiences of remote work and you will find joy in identifying with problems they have experienced and tips on how to get around them.  I'd highly recommend the chapter "Freedom is slavery".
 
-**If you work in or manage a small company**, the authors believe it is both parties best interest to join the remote revolution, I feel they quite adequately cover everything you need to know to make this a real possibility.  The best section for small companies to read is "The work is what matters"
+**If you work in or manage a small company**, the authors believe it is in both parties best interest to join the remote revolution, I feel they quite adequately cover everything you need to know on how to make this a real possibility.  The best section for small companies to read is "The work is what matters"
 
-**If you work in a large organization**, I am unsure of how this book will help you. They do reference a lot of large companies who do work remotely and your best bet is to read those references and research more about how those companies work. Read the section "That wouldn't work for our size or industry"
+**If you work in a large organization**, I am unsure of how this book will help you. They do reference a lot of large companies who do work remotely and your best bet is to read those references and independently research more about how those companies work. Read the section "That wouldn't work for our size or industry"
 
-As far as the content and writing style of the book go, I quite like the Dale Carnegie style fashion and also believe this book would benefit greatly from periodic revisions and publications. Some of the sections feel a bit too much like a run of the mill self help book because they lack anecdotes, references or statistics. 
+As far as the content and writing style of the book go, I quite like the Dale Carnegie style fashion and also believe this book would benefit greatly from periodic revisions and publications. Some of the sections feel a bit too much like a run of the mill self help book content because they lack anecdotes, references or statistics. 
 
 > The new luxury is the luxury of freedom and time. Once you've had a taste of that life, no corner office or fancy chef will be able to draw you back..
 
