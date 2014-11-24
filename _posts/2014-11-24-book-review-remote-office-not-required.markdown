@@ -28,17 +28,17 @@ Although the section titles are mostly descriptive of the contents, a small port
 
 If you find yourself constantly debating with people about the concept of remote work, this book will leave you well equipped with arguments, counter arguments and simple memorable quotes to recall.  For example:
 
-## The Work is what Matters
+## The work is what matters
 
-One of the chapter titles, a powerful remark and the the major theme of this book. When discussing the topic, this remark is what you always have to keep in mind. If somebody says "Ryan will just stay home and blast music all day while he eats mac and cheese", so what? Ryan might be highly productive after eating a kilogram of mac and cheese, "The work is what matters".
+"The work is what matters" is one of the section titles, a powerful remark and the the major theme of this book. When discussing the topic, this remark is what you always have to keep in mind. If somebody says "Ryan will just stay home and blast music all day while he eats Mac and Cheese", so what? Ryan might be highly productive after eating a kilogram of Mac and Cheese, "The work is what matters".
 
-In the sub chapter "The Work is What matters", the authors cover the topic that  software development inherently leaves a paper trail of employees work and that is all that matters. Due to the non-personal nature of telecommutting, everyone is judged largely of their productive output. Instead of people floating around the office, making bro jokes at the water cooler or telling crazy stories about their youth, everyone is treated equally by there work and being the cool guy is no longer an excuse. Obviously, it doesn't matter what time people choose to work, "THe work is what matters". 
+In this section, Jason and David talk about how software development inherently leaves a paper trail of employees work through version control and issue trackers making employee auditing a relatively easy process. Due to the non-personal nature of remote work, everyone is judged largely on their productive output. Instead of people floating around the office, making bro jokes at the water cooler or telling crazy stories about their youth, everyone is treated equally by there work and being the cool guy is no longer an excuse to get away with not their fair share of the work. It doesn't matter what time people choose to work either, "The work is what matters". 
 
-> WHen it's all about the work, it's clear who in the company is pulling their weight and who isn't
+> When it's all about the work, it's clear who in the company is pulling their weight and who isn't
 
 ## We can all do with fewer M&M's
 
-In fear of repeating the above phrase too much, let's move on to another central theme, efficiency. THe authors argue pretty adamantly that office work has turned into nothing but distractions or "interruption factories" as the authors label it. THey believe that argueing that remote work is inefficient has no basis and on the contrary we should be looking at how inefficient office work has become. 
+In fear of repeating the above phrase too much, let's move on to another central theme, efficiency. The authors argue pretty adamantly that office work has turned into nothing but distractions or "interruption factories" as the authors label it. They believe that arguing that remote work is inefficient has no basis and on the contrary we should be looking at how inefficient office work has become. 
 
 > Meetings should be like salt - sprinkled carefully to enhance a dish, not poured recklessly over every forkful. Too much salt destroys a dish
 
