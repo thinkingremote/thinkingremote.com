@@ -64,13 +64,22 @@ li {
 
   -moz-osx-font-smoothing: grayscale;
 }
-footer {
+footer .foot {
   text-align: right;
   padding: 20px 0;
   color: #fff;
   background: #333;
 }
-
+.subscribebox {
+  
+  color: #fff;
+  background: #333;
+}
+.subscribebox p{
+  
+  color: #fff;
+  background: #333;
+}
 .menu {
   list-style: none;
   padding: 0;
@@ -202,14 +211,7 @@ section::after {
     background-size: 50px 100%;
   }
 
-.ss-style-zigzag::before {
-  top: -90px;
-  background-image: -webkit-gradient(linear, 0 0, 300% 100%, color-stop(0.25, transparent), color-stop(0.25, darken($color1, 7%)));
-  background-image:
-    linear-gradient(315deg, darken($color1, 0%) 25%, transparent 25%),
-    linear-gradient( 45deg, darken($color1, 7%) 25%, transparent 25%);
-  background-position: 50%;
-}
+
 
 .ss-style-zigzag::after {
   top: 100%;
@@ -217,6 +219,27 @@ section::after {
   background-image: 
     linear-gradient(135deg, darken($color1, 0%) 25%, transparent 25%),
     linear-gradient(225deg, darken($color1, 0%) 25%, transparent 25%);
+  background-position: 50%;
+}
+$color2:#fff;
+
+.ass-style-zigzag::before,
+.ass-style-zigzag::after {
+    right: 0;
+    left: 0;
+    z-index: 10;
+    display: block;
+    height: 90px;
+    background-size: 50px 100%;
+  }
+
+
+.ass-style-zigzag::after {
+  top: 100%;
+  background-image: -webkit-gradient(linear, 0 0, 300% 100%, color-stop(1, darken($color2, 0%)), color-stop(1, $color2));
+  background-image: 
+    linear-gradient(135deg, darken($color2, 0%) 25%, transparent 25%),
+    linear-gradient(225deg, darken($color2, 0%) 25%, transparent 25%);
   background-position: 50%;
 }
 
