@@ -111,7 +111,7 @@ $('.subscription').on('submit', function () {
     "padding-right": "0px"
   }, 200, function() {
     // Animation complete.
-    $('.subscribeinput').remove();
+    $('.subscribeinput').hide();
     $('.subscribebutton').css({
       "background": "#444",
       "color": "#fff"
@@ -120,7 +120,7 @@ $('.subscription').on('submit', function () {
     type: 'POST',
     url: 'http://api.thinkingremote.com/api/v1/users',
     crossDomain: true,
-    data: JSON.stringify({"email":"thomas@gmsssail.aaa"}),
+    data: JSON.stringify({"email":$('.subscribeinput').val()}),
     dataType: 'json',
     contentType: 'application/json',
     success: function(responseData, textStatus, jqXHR) {
