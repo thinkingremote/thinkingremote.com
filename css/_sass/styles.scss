@@ -276,7 +276,7 @@ blockquote p {
   color: #333;
   font-family: "Lato";
 }
-.subscribe-form input[type="button"] {
+.subscribe-form input[type="submit"] {
   height: 100%;
   padding: 10px;
   border: 1px solid #444;
@@ -286,7 +286,7 @@ blockquote p {
   font-family: "Lato";
   background: #fff;
 }
-.subscribe-form input[type="button"]:hover {
+.subscribe-form input[type="submit"]:hover {
   background: #444;
   color: #fff;
 }

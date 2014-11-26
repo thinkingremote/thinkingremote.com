@@ -15,7 +15,9 @@ border-bottom: 3px solid #444;
  <h2 style="font-size:50px;text-align: center; margin-bottom: 0;" class="post-title">JOIN THE COMMUNITY</h2>
 <p style="text-align: center;">Sign up to receive a monthly digest, we don't spam!</p>
 <div class="subscribe-form">
-<input type="email" required placeholder="Your email" class="subscribeinput" /><input type="button" value="Subscribe" />
+<form class="subscription">
+<input type="email" required placeholder="Your email" class="subscribeinput" /><input class="subscribebutton" type="submit" value="Subscribe" />
+</form>
 </div>
 </div>
 </div>
@@ -72,7 +74,37 @@ L.mapbox.map('map', 'thinkingremote.kagnj38p',{
 	</div>
 
 </footer>
-
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
+<script type="text/javascript">
+$('.subscription').on('submit', function () {
+  $('.subscribeinput').animate({
+    width: "0px",
+    "padding-left": "0px",
+    "padding-right": "0px"
+  }, 200, function() {
+    // Animation complete.
+    $('.subscribeinput').remove();
+    $('.subscribebutton').css({
+      "background": "#444",
+      "color": "#fff"
+    }).val('Thank you!').attr('disabled', 'disabled');
+    $.ajax({
+    type: 'POST',
+    url: 'http://api.thinkingremote.com/api/v1/users',
+    crossDomain: true,
+    data: JSON.stringify({"email":"thomas@gmsssail.aaa"}),
+    dataType: 'json',
+    contentType: 'application/json',
+    success: function(responseData, textStatus, jqXHR) {
+        var value = responseData.someKey;
+    },
+    error: function (responseData, textStatus, errorThrown) {
+    }
+});
+  });
+  return false;
+})
+</script>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=thomasdavis" async="async"></script>
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
