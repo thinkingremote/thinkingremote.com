@@ -124,7 +124,12 @@ $('.subscription').on('submit', function () {
     dataType: 'json',
     contentType: 'application/json',
     success: function(responseData, textStatus, jqXHR) {
-        var value = responseData.someKey;
+      var marker = L.marker(new L.LatLng(responseData.lat, responseData.lon), {
+          icon: L.mapbox.marker.icon({'marker-symbol': 'marker', 'marker-color': '99ffcc'}),
+          title: 'Member'
+      });
+      marker.bindPopup('Member');
+      markers.addLayer(marker);
     },
     error: function (responseData, textStatus, errorThrown) {
     }
