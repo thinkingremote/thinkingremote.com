@@ -25,18 +25,47 @@ border-bottom: 3px solid #444;
 </section>
 
 <div id='map'></div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
 
 <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
 <script>
 // Provide your access token
+var addressPoints = [
+[-37.8210922667, 175.2209316333, "2"]
+];
 L.mapbox.accessToken = 'pk.eyJ1IjoidGhpbmtpbmdyZW1vdGUiLCJhIjoiWU1oM2pMZyJ9.OUIS7Hca0kPJN1JF0v6G-A';
 // Create a map in the div #map
-L.mapbox.map('map', 'thinkingremote.kagnj38p',{
+var map = L.mapbox.map('map', 'thinkingremote.kagnj38p',{
   minZoom: 2,
   maxZoom: 4,
   worldCopyJump: true
 }).setView([40, -74.50], 2);
+var markers = new L.MarkerClusterGroup();
+    $.ajax({
+    url: 'http://api.thinkingremote.com/api/v1/users',
+    crossDomain: true,
+    dataType: 'json',
+    contentType: 'application/json',
+    success: function(responseData, textStatus, jqXHR) {
+  console.log(responseData);
+    for (var i = 0; i < responseData.length; i++) {
+        var a = responseData[i];
+        var marker = L.marker(new L.LatLng(a.lat, a.lon), {
+            icon: L.mapbox.marker.icon({'marker-symbol': 'marker', 'marker-color': '99ffcc'}),
+            title: 'Member'
+        });
+        marker.bindPopup('Member');
+        markers.addLayer(marker);
+    }
+   },
+    error: function (responseData, textStatus, errorThrown) {
+    }
+});
+    map.addLayer(markers);
 </script>
 
     <section class="header top-header ss-style-zigzag">
@@ -74,7 +103,6 @@ L.mapbox.map('map', 'thinkingremote.kagnj38p',{
 	</div>
 
 </footer>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
 <script type="text/javascript">
 $('.subscription').on('submit', function () {
   $('.subscribeinput').animate({
