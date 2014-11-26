@@ -263,3 +263,30 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.subscribe-form {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.subscribe-form input[type="email"] {
+  padding: 10px;
+  border: 1px solid #444;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #333;
+  font-family: "Lato";
+}
+.subscribe-form input[type="button"] {
+  height: 100%;
+  padding: 10px;
+  border: 1px solid #444;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #333;
+  font-family: "Lato";
+  background: #fff;
+}
+.subscribe-form input[type="button"]:hover {
+  background: #444;
+  color: #fff;
+}
