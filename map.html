@@ -43,6 +43,9 @@ of remote workers.</p>
 // Provide your access token
 L.mapbox.accessToken = 'pk.eyJ1IjoidGhpbmtpbmdyZW1vdGUiLCJhIjoiWU1oM2pMZyJ9.OUIS7Hca0kPJN1JF0v6G-A';
 // Create a map in the div #map
-L.mapbox.map('map', 'thinkingremote.kagnj38p')
-    .setView([40, -74.50], 1);
+L.mapbox.map('map', 'thinkingremote.kagnj38p',{
+  minZoom: 2,
+  maxZoom: 4,
+  worldCopyJump: true
+}).setView([40, -74.50], 2);
 </script>
