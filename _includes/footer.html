@@ -105,37 +105,42 @@ var markers = new L.MarkerClusterGroup();
 </footer>
 <script type="text/javascript">
 $('.subscription').on('submit', function () {
-  $('.subscribeinput').animate({
-    width: "0px",
-    "padding-left": "0px",
-    "padding-right": "0px"
-  }, 200, function() {
-    // Animation complete.
-    $('.subscribeinput').hide();
-    $('.subscribebutton').css({
-      "background": "#444",
-      "color": "#fff"
-    }).val('Thank you!').attr('disabled', 'disabled');
-    $.ajax({
-    type: 'POST',
-    url: 'http://api.thinkingremote.com/api/v1/users',
-    crossDomain: true,
-    data: JSON.stringify({"email":$('.subscribeinput').val()}),
-    dataType: 'json',
-    contentType: 'application/json',
-    success: function(responseData, textStatus, jqXHR) {
-      var marker = L.marker(new L.LatLng(responseData.lat, responseData.lon), {
-          icon: L.mapbox.marker.icon({'marker-symbol': 'marker', 'marker-color': '99ffcc'}),
-          title: 'Member'
-      });
-      marker.bindPopup('Member');
-      markers.addLayer(marker);
-    },
-    error: function (responseData, textStatus, errorThrown) {
-    }
-});
-  });
-  return false;
+
+	$.ajax({
+		type: 'POST',
+		url: 'http://api.thinkingremote.com/api/v1/users',
+		crossDomain: true,
+		data: JSON.stringify({"email":$('.subscribeinput').val()}),
+		dataType: 'json',
+		contentType: 'application/json',
+		success: function(responseData, textStatus, jqXHR) {
+			
+			$('.subscribeinput').animate({
+			    width: "0px",
+			    "padding-left": "0px",
+			    "padding-right": "0px"
+			  }, 200, function() {
+			    // Animation complete.
+			    $('.subscribeinput').hide();
+			    $('.subscribebutton').css({
+			      "background": "#444",
+			      "color": "#fff"
+			    }).val('Thank you!').attr('disabled', 'disabled');
+			});
+			
+			
+			var marker = L.marker(new L.LatLng(responseData.lat, responseData.lon), {
+				icon: L.mapbox.marker.icon({'marker-symbol': 'marker', 'marker-color': '99ffcc'}),
+				title: 'Member'
+			});
+			marker.bindPopup('Member');
+			markers.addLayer(marker);
+		},
+		error: function (responseData, textStatus, errorThrown) {
+		}
+	});
+
+	return false;
 })
 </script>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
