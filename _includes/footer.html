@@ -108,8 +108,7 @@ $('.subscription').on('submit', function () {
 
 	$.ajax({
 		type: 'POST',
-		// url: 'http://api.thinkingremote.com/api/v1/users',
-		url: 'http://localhost:3000/api/v1/users',
+		url: 'http://api.thinkingremote.com/api/v1/users',
 		crossDomain: true,
 		data: JSON.stringify({"email":$('.subscribeinput').val()}),
 		dataType: 'json',
