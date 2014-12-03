@@ -10,7 +10,7 @@ avatar: http://techzulu.com/wp-content/uploads/2011/11/joey_flores_150x150.png
 excerpt: 
 ---
 
-I've just spent the past five years working from home as my co-founder Yotam and I built our company, Earbits.  Like most people, I used to dream of working from home, having total flexibility, wearing whatever I want, not having to commute, taking breaks mid-day to run errands, and all of the other awesome reasons why it's nice working remotely.  Five years later, my social life has dwindled, my company doesn't have the culture I wish it did, and my personal life and professional life blur so drastically together that it's hard to have a personal experience without work finding its way into it, and hard to work without personal things distracting me.  Though I am sure it is awesome for some people, there are several reasons why I no longer want to work remotely.
+I've just spent the past five years working from home as my co-founder Yotam and I built our company, <a href="http://www.earbits.com/" target="_blank">Earbits</a>.  Like most people, I used to dream of working from home, having total flexibility, wearing whatever I want, not having to commute, taking breaks mid-day to run errands, and all of the other awesome reasons why it's nice working remotely.  Five years later, my social life has dwindled, my company doesn't have the culture I wish it did, and my personal life and professional life blur so drastically together that it's hard to have a personal experience without work finding its way into it, and hard to work without personal things distracting me.  Though I am sure it is awesome for some people, there are several reasons why I no longer want to work remotely.
 
 ## 1. As a leader, I have struggled to build the culture I want remotely.
 
