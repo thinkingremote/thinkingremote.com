@@ -3,7 +3,7 @@ layout: post
 title:  "If You're Like Me, Don't Work Remotely"
 date:   2014-12-02 02:35:14
 categories: jekyll update
-permalink: if-you're-like-me,-don't-work-remotely
+permalink: if-youre-like-me-dont-work-remotely
 author: Joey Flores
 blurb: Joey Flores is a 15 year internet marketing veteran and co-founder of Y Combinator-funded Earbits Radio.
 avatar: http://techzulu.com/wp-content/uploads/2011/11/joey_flores_150x150.png
